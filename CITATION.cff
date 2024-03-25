@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the article from preferred-citation and the software itself."
+authors:
+- family-names: "van den Bos"
+  given-names: "Jeroen"
+- family-names: "van der Meer"
+  given-names: "Vincent"
+title: "Implementation of JPEG fragmentation point detection algorithm"
+version: "1.0.0"
+date-released: "2023-12-14"
+license: Apache-2.0
+url: "https://github.com/parsingdata/jpeg-fragments"
+preferred-citation:
+  type: "article"
+  authors:
+  - family-names: "van der Meer"
+    given-names: "Vincent"
+  - family-names: "van den Bos"
+    given-names: "Jeroen"
+  - family-names: "Jonker"
+    given-names: "Hugo"
+  - family-names: "Dassen"
+    given-names: "Laurent"
+  title: "Problem solved: A reliable, deterministic method for JPEG fragmentation point detection"
+  journal: "Forensic Science International: Digital Investigation"
+  volume-title: "DFRWS EU 2024 - Selected Papers from the 11th Annual Digital Forensics Research Conference Europe"
+  volume: "48"
+  year: "2024"
+  start: "301687"
+  pages: "10"
+  doi: "10.1016/j.fsidi.2023.301687"
+  url: "https://doi.org/10.1016/j.fsidi.2023.301687"
+  publisher: "Elsevier"
